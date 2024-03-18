@@ -1,7 +1,7 @@
 # 현대그룹
 
 ## 바로가기
-`https://hyundai-clone-zuicy.vercel.app/`
+배포 : https://hyundai-clone-zuicy.vercel.app
 ## 정보
 
 - 작업물 보기
